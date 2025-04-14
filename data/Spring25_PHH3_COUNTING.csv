@@ -1,0 +1,47 @@
+Animal_No,Age,Cep55_Genotype,Slide_No,Position,L_R,PH3_Cell_No,Yellow_Cell_No,Td_Cell_,EGFP_Cell,,Comments
+1483,E12,HET,7,3,Both,0,56,0,0,,"looks early, oops 1483 doesn't have cre"
+1483,E12,HET,7,5,Both,248,4,3,0,,check again
+1483,E12,HET,7,6,Both,303,8,1,0,,
+1485,E12,WT,8,3,Both,25,14,0,0,,looks late
+3510,E12,WT,1,2,Both,494,1,0,0,,
+3510,E12,WT,1,3,Both,497,1,0,1,,
+3510,E12,WT,1,4,Both,419,0,0,0,,
+3512,E12,HET,1,2,Both,291,0,1,0,,
+3512,E12,HET,1,3,Both,362,0,0,0,,
+2466,E16,WT,1,2,Left,14,19,2,0,,
+2466,E16,WT,1,2,Right,62,10,0,0,,looks early
+2466,E16,WT,1,4,Left,1,12,0,0,,wrinkly
+2466,E16,WT,1,4,Right,5,16,0,0,,
+2466,E16,WT,1,3,Right,69,20,0,0,,
+2471,E16,HET,5,1,Left,81,4,0,0,,looks late
+2471,E16,HET,5,1,Right,87,5,1,0,,
+2471,E16,HET,5,2,Left,77,3,0,0,,
+2471,E16,HET,5,2,Right,46,4,0,0,,
+2471,E16,HET,5,5,Left ,60,1,1,0,,
+2471,E16,HET,5,5,Right,65,2,0,0,,
+3537,E16,WT,1,10,Left,51,30,0,0,,
+3537,E16,WT,1,10,Right,45,5,1,0,,
+3537,E16,WT,1,8,Left,76,9,3,0,,
+3537,E16,WT,1,8,Right,84,6,4,0,,
+3537,E16,WT,1,7,Left,137,2,1,0,,
+3537,E16,WT,1,7,Right,95,4,1,0,,
+3537,E16,WT,1,5,Left,119,6,0,0,,
+3537,E16,WT,1,5,Right,114,9,2,0,,
+3544,E16,HET,1,2,Left,132,4,1,1,,
+3544,E16,HET,1,2,Right,78,0,1,0,,
+3544,E16,HET,1,3,Left,107,1,2,0,,
+3544,E16,HET,1,3,Right,113,3,1,0,,
+3544,E16,HET,1,4,Left,59,6,1,0,,
+3544,E16,HET,1,4,Right,80,3,0,0,,msihapen
+3544,E16,HET,1,5,Left,56,7,2,0,,
+3544,E16,HET,1,5,Right,45,24,12,0,,
+1516,P0,HET,5,4,Left,81,0,1,0,,not good z
+1516,P0,HET,5,5,Left,51,0,1,0,,
+1516,P0,HET,5,5,Right,31,0,2,0,,also not good z range
+1516,P0,HET,5,7,Both,35,1,1,0,,
+1525,P0,WT,3,3,Left,8,1,0,0,,
+1525,P0,WT,3,3,Right,11,2,0,0,,
+1525,P0,WT,3,4,Left,19,9,0,0,,
+1525,P0,WT,3,4,Right,22,0,0,0,,
+1525,P0,WT,3,7,Left,21,2,0,0,,
+1525,P0,WT,3,7,Right,30,1,1,0,,
